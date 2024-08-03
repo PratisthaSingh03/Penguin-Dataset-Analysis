@@ -56,5 +56,7 @@ scikit-learn
 
 ### Algorithms
 Logistic Regression
+
 Decision Tree
+
 K-Nearest Neighbors
